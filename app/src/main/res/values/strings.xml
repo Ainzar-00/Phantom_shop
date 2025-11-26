@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_app">phantom</string>
+
+    <string name="Search_cat_hint">Search Category</string>
+    <!-- Main Category Titles -->
+    <string name="category_audio">Audio</string>
+    <string name="category_video">Video</string>
+    <string name="category_apparel_merchandise">Apparel &amp; Merch</string>
+    <string name="category_studio_environment">Studio &amp; Environment</string>
+    <string name="panier_nom">Panier</string>
+
+    <!-- Filter Section -->
+    <string name="filter_title">Filter</string>
+    <string name="categories">Categories</string>
+    <string name="filter_price_low_to_high">Price: Low to High</string>
+    <string name="filter_price_high_to_low">Price: High to Low</string>
+
+    <string name="id_item_image">itemImage</string>
+    <string name="id_item_title">itemTitle</string>
+    <string name="id_item_subtitle">itemSubtitle</string>
+    <string name="id_item_badge">itemBadge</string>
+
+</resources>

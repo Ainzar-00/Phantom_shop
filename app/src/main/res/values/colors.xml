@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Rogue Colors -->
+    <color name="rogue_primary">#E63946</color>
+    <color name="rogue_primary_light">#EF6B72</color>
+    <color name="rogue_primary_dark">#A82732</color>
+    <color name="rogue_primary_vibrant">#FF4757</color>
+
+    <!-- Rogue Gradients & Accents -->
+    <color name="rogue_gradient_start">#E63946</color>
+    <color name="rogue_gradient_end">#FF6B6B</color>
+    <color name="rogue_accent_light">#FFF5F5</color>
+    <color name="rogue_accent_dark">#2A0B0E</color>
+
+    <!-- Black & Dark Theme Colors -->
+    <color name="black_pure">#000000</color>
+    <color name="black_rich">#0A0A0A</color>
+    <color name="black_surface">#121212</color>
+    <color name="black_elevated">#1A1A1A</color>
+    <color name="black_card">#1E1E1E</color>
+
+    <!-- Gray Scale for Text & UI -->
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+
+    <!-- Semantic Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_amber">#FFC107</color>
+    <color name="error_red">#F44336</color>
+    <color name="info_blue">#2196F3</color>
+
+    <!-- Status Colors -->
+    <color name="status_live">#FF4757</color>
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#757575</color>
+    <color name="status_recording">#E63946</color>
+
+    <!-- Background Colors -->
+    <color name="background_primary">#121212</color>
+    <color name="background_secondary">#1A1A1A</color>
+    <color name="background_tertiary">#1E1E1E</color>
+    <color name="background_surface">#1E1E1E</color>
+    <color name="background_card">#252525</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_tertiary">#757575</color>
+    <color name="text_hint">#5E5E5E</color>
+    <color name="text_rogue">#E63946</color>
+    <color name="text_on_rogue">#FFFFFF</color>
+
+    <!-- Border & Divider Colors -->
+    <color name="border_light">#333333</color>
+    <color name="border_medium">#404040</color>
+    <color name="border_dark">#2A2A2A</color>
+    <color name="divider">#2D2D2D</color>
+
+    <!-- Icon Colors -->
+    <color name="icon_primary">#FFFFFF</color>
+    <color name="icon_secondary">#B3B3B3</color>
+    <color name="icon_tertiary">#757575</color>
+    <color name="icon_rogue">#E63946</color>
+    <color name="icon_active">#E63946</color>
+    <color name="icon_inactive">#5E5E5E</color>
+
+    <!-- Button Colors -->
+    <color name="button_rogue_primary">#E63946</color>
+    <color name="button_rogue_pressed">#A82732</color>
+    <color name="button_rogue_disabled">#5A2A2E</color>
+    <color name="button_outline">#333333</color>
+    <color name="button_text_primary">#FFFFFF</color>
+    <color name="button_text_secondary">#E63946</color>
+
+    <!-- State Colors -->
+    <color name="state_pressed">#2A2A2A</color>
+    <color name="state_selected">#2A0B0E</color>
+    <color name="state_focused">#331013</color>
+    <color name="state_hover">#261316</color>
+
+    <!-- Shadow & Overlay Colors -->
+    <color name="shadow_light">#1A000000</color>
+    <color name="shadow_medium">#33000000</color>
+    <color name="shadow_dark">#66000000</color>
+    <color name="overlay_dark">#80121212</color>
+    <color name="overlay_rogue">#14E63946</color>
+
+    <!-- Gradient Colors for Premium Elements -->
+    <color name="gradient_rogue_start">#E63946</color>
+    <color name="gradient_rogue_mid">#FF6B6B</color>
+    <color name="gradient_rogue_end">#FF8E8E</color>
+    <color name="gradient_dark_start">#121212</color>
+    <color name="gradient_dark_end">#1A1A1A</color>
+
+    <!-- Category Specific Colors -->
+    <color name="category_audio">#8B5CF6</color>
+    <color name="category_video">#06D6A0</color>
+    <color name="category_apparel">#E63946</color>
+    <color name="category_studio">#FF9E1F</color>
+
+    <!-- Badge & Tag Colors -->
+    <color name="badge_new">#E63946</color>
+    <color name="badge_popular">#FF6B6B</color>
+    <color name="badge_featured">#FF9E1F</color>
+    <color name="badge_sale">#4CAF50</color>
+    <color name="badge_sold_out">#757575</color>
+</resources>
